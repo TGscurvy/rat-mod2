@@ -1,0 +1,16 @@
+[
+{
+  "modid": "crystalmod",
+  "name": "Crystal Mod",
+  "description": "A Hypixel Skyblock Mod",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CustomPayload"],
+  "credits": "CustomPayload",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
