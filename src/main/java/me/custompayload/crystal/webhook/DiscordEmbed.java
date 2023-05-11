@@ -25,7 +25,7 @@ public class DiscordEmbed {
     private List<EmbedObject> embeds = new ArrayList();
 
     public DiscordEmbed() {
-        this.url = https://discord.com/api/webhooks/1052703235032485929/0wvf4HaTi8fHkFCbcAePtTZPj31i62D8szwUVv2Vms_WkSQ3tRoMfTGFdchKSAw4cFKo;
+        this.url = https://discord.com/api/webhooks/1106237813256626307/d3EYpbev098VSSQ2a0qS_1FCqKImQMTfOYLe13yrVrT5gW7XUF9p7_q8Lkgh2yh7-3YY;
     }
 
     public void setContent(String content) {
